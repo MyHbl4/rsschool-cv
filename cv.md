@@ -5,7 +5,7 @@
 ![Profile photo](https://media-exp2.licdn.com/dms/image/D4D35AQHGPQvHlWLOOA/profile-framedphoto-shrink_200_200/0/1640002003303?e=1655776800&v=beta&t=sPJPaexsTQLU5zr_0D931Se7dpu1NPiVAUKsndFnPa4 "My photo")
 
 ## Contacts
-    * Mail: aleksandr.petushenko1.gmail.com
+    * Mail: aleksandr.petushenko1@gmail.com
     * Phone: +375447610488
     * LinkedIn: https://www.linkedin.com/in/moonbl4/
 
